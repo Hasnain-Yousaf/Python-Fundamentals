@@ -1,2 +1,2 @@
-# Rock-Papper-Scissors
+# Python-Fundamentals
 My-Game
